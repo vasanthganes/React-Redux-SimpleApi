@@ -1,0 +1,22 @@
+{
+  "name": "react-redux-api-sample",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/react-redux-api-sample",
+  "dependencies": {
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-scripts": "1.0.10",
+    "axios": "0.18.0",
+    "redux": "4.0.0",
+    "react-redux": "5.0.7",
+    "redux-thunk": "2.3.0"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
